@@ -7,28 +7,28 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1
-</br>
-</br> 
+Import All The Necessary Modules.
 
 ### Step2
-</br>
-</br> 
+Using Averaging Filter Smoothen the given image.
 
 ### Step3
-</br>
-</br> 
+Using the Weighted Averaging Filter Smoothen the given Image.
 
 ### Step4
-</br>
-</br> 
+Using the Gaussian Filter Smoothen the given Image.
 
 ### Step5
-</br>
-</br> 
+Using the Median Filter Smoothen the given Image.
+### Step 6:
+Using the Laplacian Kernel Filter Sharpen the given Image.
+
+### Step 7:
+Using the Laplacian Operator Filter Sharpen the given Image.
 
 ## Program:
-### Developed By   :
-### Register Number:
+### Developed By   : a.sasidharan
+### Register Number:212221240049
 </br>
 
 ### 1. Smoothing Filters
